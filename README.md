@@ -1107,3 +1107,5 @@ For major changes, please open an issue first to discuss what you would like to 
 **Questions?** Open an [issue](https://github.com/t-ogura/zmk-config-prospector/issues) or join [ZMK Discord](https://zmk.dev/community/discord/invite).
 
 **Prospector Scanner v2.0.0** - ZMK Status Display Device
+
+a
